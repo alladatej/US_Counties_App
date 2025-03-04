@@ -1,10 +1,17 @@
 
-# README for US Counties App #
 Made by Tej Allada
 
 This app was designed in App Lab using JavaScript. Its functionality is for the user
 to selecet any US state and get an output return of all the counties in the respective
 state, listed in aphbetical order.
+
+----------------------------------------------------------------------------------------
+
+Because the code was made in App Lab, and there are local libraries that could
+not be exported, the app can be run through this link: 
+https://studio.code.org/projects/applab/DKztGIXT0Q3lxZq95tjZaiTZwJOeWeHb6Fsa62L2i1s
+
+----------------------------------------------------------------------------------------
 
 The files in this folder contain everything you need to run the app:
 
